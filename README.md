@@ -1,5 +1,5 @@
 # Test Git Repo
-This is a dmeo app
+This is a demo app that does amazing things
 
 ## Work with GIT
 1. git checkout main
