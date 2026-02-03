@@ -1,5 +1,5 @@
 # Test Git Repo
-This is a demo application
+This is a demo application that does amazing things
 
 ## Work with GIT
 1. git checkout main
